@@ -1,0 +1,293 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon preached at St. Martins in the Fields, at the funeral of the Reverend Doctor Hardy, Dean of Rochester, June 9th, 1670 by Richard Meggott ...</title>
+            <author>Meggott, Richard, d. 1692.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1670</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 37 KB of XML-encoded text transcribed from 20 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A50543</idno>
+            <idno type="STC">Wing M1620</idno>
+            <idno type="STC">ESTC R793</idno>
+            <idno type="EEBO-CITATION">12770162</idno>
+            <idno type="OCLC">ocm 12770162</idno>
+            <idno type="VID">93638</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A50543)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 93638)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 698:26)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon preached at St. Martins in the Fields, at the funeral of the Reverend Doctor Hardy, Dean of Rochester, June 9th, 1670 by Richard Meggott ...</title>
+                  <author>Meggott, Richard, d. 1692.</author>
+               </titleStmt>
+               <extent>[6], 32 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by E. Tyler and R. Holt for Joseph Clark ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1670.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Hardy, Nathaniel, 1618-1670 --  Sermons.</term>
+               <term>Funeral sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-05</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:93638:1"/>
+            <pb facs="tcp:93638:1" rendition="simple:additions"/>
+            <p>A SERMON Preached at St. <hi>MARTINS</hi> in the <hi>FIELDS,</hi> AT THE FUNERAL Of the Reverend Doctor <hi>HARDY,</hi> Dean of <hi>Rocheſter, June</hi> 9<hi rend="sup">th.</hi> 1670.</p>
+            <p>By <hi>Richard Meggott, D. D.</hi> Rector of St <hi>Olaves Southwarke,</hi> and one of His Majeſties Chaplains in Ordinary.</p>
+            <figure/>
+            <p>
+               <hi>London,</hi> Printed by <hi>E. Tyler</hi> and <hi>R. Holt,</hi> for <hi>Joſeph Clark,</hi> at the <hi>Star</hi> in <hi>Little Brittain,</hi> 1670.</p>
+         </div>
+         <div type="letter">
+            <pb facs="tcp:93638:2"/>
+            <pb facs="tcp:93638:2"/>
+            <head>To the Nobility, Gentry, and other Inhabi<g ref="char:EOLhyphen"/>tants of the Pariſh of St. <hi>MARTINS</hi> in the <hi>FIELDS.</hi>
+            </head>
+            <opener>
+               <salute>Right Honourable, Worthy and Beloved,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>Hen Epiſtles of this Nature are ſo much in Faſhion, that all Things in Print are thought undreſſed, if they are with<g ref="char:EOLhyphen"/>out them; I hope I ſhall not be cenſured for this to You now: Becauſe it is not an Affectation of Great Patrons, nor an overweening Opinion of a thin Diſ<g ref="char:EOLhyphen"/>courſe, but only the Condition and Relation of the Perſon, who was the Occaſion of it, hath
+<pb facs="tcp:93638:3"/>given me the Preſumption. You all had a Com<g ref="char:EOLhyphen"/>mon Right in Him, and he a Peculiar Intereſt in ſo many of You, that in this Caſe to have ad<g ref="char:EOLhyphen"/>dreſſed to any One, might have been Interpreted to have forgotten Several.</p>
+            <p>It is Pitty that a <hi>Diamond</hi> ſhould be ſet in Lead. Could I have had my Deſires, this Ex<g ref="char:EOLhyphen"/>cellent Perſon ſhould have had a Proportionable Penicil to have drawn Him, then You could not but have begged His Picture, as <hi>Joſeph</hi> of <hi>Arimathea</hi> did his Maſters Body: But I had neither Art nor Time for ſuch a Piece; This is ſo much fitter to be covered with a Curtain, than hung out in Publick View, that I am ſur<g ref="char:EOLhyphen"/>prized either that you ſhould expect it, or I per<g ref="char:EOLhyphen"/>mit it.</p>
+            <p>I am not inſenſible that there want not ſome who are very induſtrious to repreſent Him very differently; Concerning whom I ſhall ſay no more,
+<pb facs="tcp:93638:3"/>than that there are ſuch Things, as Envy, Pride, and Spight, which like Smoak alwayes fly in the Faces of the faireſt: But while ſuch as give him a ſlighty Character ſhall approve themſelves more Serviceable to the Church, and ſuch as give Him an ill one ſhall appear to be without any Fault themſelves, I think they are neither to be wondered at nor regarded.</p>
+            <p>I might have ſaid much more to his Commen<g ref="char:EOLhyphen"/>dation, which was true: I appeal to his moſt Venomous Enemies, whether any thing I did ſay was falſe. That Paſſage concerning his Con<g ref="char:EOLhyphen"/>ference with Doctor <hi>Hammond,</hi> which ſome I hear have much queſtioned, I had from his own Mouth: as to that Objection againſt it, that he Preached before the Lords that ſat at <hi>Weſt<g ref="char:EOLhyphen"/>minſter</hi> afterwards, if the Deſign of that Ser<g ref="char:EOLhyphen"/>mon, and the Temper of thoſe Times, be well conſidered of, it is rather an Argument to confirm it.</p>
+            <p>
+               <pb facs="tcp:93638:4"/>
+The beſt, and ſurely the greateſt part of you are ſo well perſwaded of Him, that ſuch Vindica<g ref="char:EOLhyphen"/>tions as theſe are unneceſſary for your ſatisfacti<g ref="char:EOLhyphen"/>on: Leſt they ſhould be burthenſome to your Patience, My Prayers that you may all live holily as He directed, and die happily as he deſired, is all that ſhall be added by His unworthy Fellow ſervant,</p>
+            <closer>
+               <signed>Your Servant in things apper<g ref="char:EOLhyphen"/>taining unto God, RICHARD MEGGOTT.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:93638:4"/>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>Job 14.14. Later Part.</hi>
+                  </bibl>
+                  <p>All the Days of my Appointed Time will I wait till my Change come.</p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">I</seg>T is a ſad <hi>Change,</hi> a ſad and ſuddain <hi>Change,</hi> This which hath now Aſſembled us; a ſtrong man hath <hi>changed</hi> his vigorous health for rottenneſs; a Reverend Divine hath <hi>changed</hi> his frequented Pulpit for a Coffin; an Eloquent Orator hath <hi>changed</hi> his charming Rhetorick for Silence; a ſhining Star hath <hi>changed</hi> his Eminent Orb for the Grave and Darkneſs. And had I waved all Text but
+<pb n="2" facs="tcp:93638:5"/>him, here had been Theam enough to have enter<g ref="char:EOLhyphen"/>tained your paſſionate and devout Attentions.</p>
+            <p>This was the Ancients uſual practice upon ſuch Solemnities: Thus <hi>Nazienzen</hi> in his Fune<g ref="char:EOLhyphen"/>ral Oration for St. <hi>Baſil,</hi> St. <hi>Ambroſe</hi> in his for his Brother <hi>Satyrus;</hi> St. <hi>Bernard</hi> in his for <hi>Gerard,</hi> ſpend their whole diſcourſes in the lamenting and commendation of the Parties that were deceaſed.</p>
+            <p>But Chriſtians are now grown ſo much worſe, and the hearts of men ſo hardned, that Charity hath laid a neceſſity upon us of doing ſomething elſe; and the danger of them we are to ſpeak to, compelleth us to borrow the greateſt part of that Time which was formerly employed in the Embalming of the Dead for the Benefit of the Living.</p>
+            <p>Before therefore I attempt any account of him, whoſe <hi>great change is come,</hi> I ſhall make my Addreſs to you whoſe <hi>change is to come,</hi> that you would prepare and provide for it. To this end it is I preſent you with this fair Copy to write after, this Excellent Example to follow, [Holy <hi>Job</hi>] whoſe Practice and Language in
+<pb n="3" facs="tcp:93638:5"/>the Caſe you have in the Words I have now read; <hi>All the Days of my Appointed Time will I wait till my Change come.</hi>
+            </p>
+            <p>The Text falleth aſunder of it ſelf into two Generals; Here is <hi>Job</hi>'s <hi>Diſſolution</hi> and his <hi>Re<g ref="char:EOLhyphen"/>ſolution.</hi>
+            </p>
+            <p>His <hi>Diſſolution</hi> in theſe Words, <hi>My change will come.</hi>
+            </p>
+            <p>His <hi>Reſolution</hi> to fit himſelf for it before it come, in theſe: <hi>All the days of my appointed time will I wait for it.</hi>
+            </p>
+            <p>But that we may the better come at it, I ſhall chooſe rather to Branch it into theſe three Particulars.</p>
+            <list>
+               <item>1. <hi>Here is the terme of mans life ſtinted, it is an appointed time.</hi>
+               </item>
+               <item>2. <hi>Here is the Nature of Death intimated; It is that which maketh an Alteration, a huge Alte<g ref="char:EOLhyphen"/>ration, when it cometh; It is a change.</hi>
+               </item>
+            </list>
+            <p>Laſtly, <hi>Here is our Duty and Employment beſpoke in one for the other; in life to make our ſelves ready for death: All our days to wait for it.
+<pb n="4" facs="tcp:93638:6"/>All the days of my appointed time will I wait till my change come.</hi>
+            </p>
+            <p>The firſt of theſe Severals is the ſtinted terme of mans Life. <hi>It is an appointed time.</hi> Although the <hi>Chaldee</hi> Paraphraſt rendereth it by <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> and the <hi>Vulgar Latine militiae, the days of my warfare;</hi> yet when the choiceſt Maſters of Words confeſs that <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> is alſo often uſed as <hi>Synonimous</hi> with <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>finis, extremum:</hi> And the <hi>Hebrew Scholi<g ref="char:EOLhyphen"/>aſts</hi> expound it <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> and <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>tempus praeciſum,</hi> I ſhall adhere to our own Tranſlation, which calleth the Days of our abode here in this World, <hi>an appointed time.</hi>
+            </p>
+            <p>
+               <hi>An appointed time.</hi> It is but <hi>time</hi> at the moſt. The Inhabitants of the intellectual World, whether they be in Weale or Woe, Peace or Torment, have no varying nor ſhadow of <hi>change</hi> with them: Upon this account in ſome Parts of <hi>Africa</hi> they put their dead Bodies in<g ref="char:EOLhyphen"/>to the Ground ſitting, a poſture of reſt and ſtay, to ſhew that what ever place they were gone to then, they ſhould never move nor ſtir
+<pb n="5" facs="tcp:93638:6"/>more from it. But we are here on Earth upon other termes; this is only for a time, and then we muſt depart from it. The Fathers, do they live for ever? And the Prophets, where are they? <hi>Joſeph</hi> is not, and <hi>Simeon</hi> is not; and we (alas!) muſt not we go alſo? <hi>Our time is</hi>
+            </p>
+            <p>
+               <hi>Appointed.</hi> He that faſhioned and framed our Bodies, hath not obſerved juſt the ſame hand in all, but hath made them with provi<g ref="char:EOLhyphen"/>dent and wiſe Differences: Some are ſtrong as Iron, others as brittle as Glaſs; This hath the toughneſs of the Oake, that the ſlightineſs of the Reed: In one the Temperament of the Hu<g ref="char:EOLhyphen"/>mors is more adjuſted, in another more unequal, according to the duration he did intend them for. What is the reaſon that in the ſame Cli<g ref="char:EOLhyphen"/>mate, Aire, Diet, Exerciſe; <hi>Terentia</hi> liveth to 103 Years of Age, when her Siſter <hi>Fulvia</hi> di<g ref="char:EOLhyphen"/>eth at 27? <hi>Geſippus</hi> with all the care and helps of Art can be preſerved no longer than 35. when <hi>Thanicus</hi> laſted while above 80? Whence (I ſay) ordinarily is this diverſity, but from the diverſity of their natural conſtitutions? God
+<pb n="6" facs="tcp:93638:7"/>according to his deſign of our longer or ſhorter continuance here, giving to every one of us a bo<g ref="char:EOLhyphen"/>dy as it pleaſeth him: This is the natural terme of life, called by the Schools, the Time of Gods Determination; ſo long men may live.</p>
+            <p>Not that every one liveth juſt ſo long, and di<g ref="char:EOLhyphen"/>eth no ſooner: No, this courſe of Nature is often violated and prevented: Some die penally, by the Magiſtrates Sentence; ſome die deſperate<g ref="char:EOLhyphen"/>ly, making away themſelves; ſome die ſottiſh<g ref="char:EOLhyphen"/>ly, by their own intemperance; ſome die mer<g ref="char:EOLhyphen"/>cifully, are taken away from the evil to come. Although none can live longer than this <hi>time,</hi> yet it is very common to die ſooner; although they are Bounds which we cannot paſs, yet they are ſuch as we may fall ſhort of.</p>
+            <p>The reaching of this Terme it is not abſolute, but conditional; it is promiſed as a Bleſſing to Piety and Publick Vertue, <hi>Ex.</hi> 23.25, 26. <hi>Ye ſhall ſerve the Lord your God,</hi> &amp;c. <hi>And I will take ſick<g ref="char:EOLhyphen"/>neſs away from the midſt of thee,</hi> &amp;c. <hi>The number of thy days I will fulfil. Thy days,</hi> thoſe which are thy firſt portion, thou ſhalt fulfil them: On the
+<pb n="7" facs="tcp:93638:7"/>other hand it is threatned as a Curſe to diſorder<g ref="char:EOLhyphen"/>ly and wicked men, <hi>Pſal.</hi> 55.23. <hi>That they ſhall not live out half their days:</hi> Theirs, thoſe which otherwiſe they might have attained and arrived to. And this is the actual Terme of life uſually called the time of Gods foreknowledge.</p>
+            <p>Not that in any caſe whenſoever, whereſo<g ref="char:EOLhyphen"/>ever, howſoever we go out of the World, the purpoſe of God is made of none effect, or his appointment diſappointed: No, for the bounds which he hath ſet us they are not fatally im<g ref="char:EOLhyphen"/>movable: Then all care in this caſe would prove as impertinent as <hi>Beverovitius</hi> objected his Calling: but only poſſibly attainable as appeareth by the enforcement of the fifth Com<g ref="char:EOLhyphen"/>mandment, and the caſe of <hi>Hezekiah.</hi> Upon ſuſpoſition of, and with reſpect to, means and conditions it is, <hi>that our time is appointed.</hi> And that ſhall ſuffice to have been ſpoken to the firſt Part of the Text, the bounds of our life upon Earth: How and upon what ac<g ref="char:EOLhyphen"/>count <hi>it is an appointed time.</hi> We now go on to conſider what becometh of us, when this
+<pb n="8" facs="tcp:93638:8"/>
+               <hi>time</hi> is out and expired, as it followeth in my</p>
+            <p>Next Particular: <hi>A change will come.</hi> This good man had experienced very many <hi>changes</hi> already: A <hi>change</hi> in his Eſtate, from abun<g ref="char:EOLhyphen"/>dant Wealth to Poverty; a <hi>change</hi> in his Fa<g ref="char:EOLhyphen"/>mily, from numerous Sons and Daughters to be Childleſs; a <hi>change</hi> in his Perſon, from Health and ſoundneſs of Body to Diſeaſes and painful Sores; but he here expecteth another <hi>change,</hi> much greater and ſtranger than any of them. We may more than gueſs what that is, when we find the ſame word, <hi>Prov.</hi> 31.8. is rendred <hi>Deſtruction,</hi> and St. <hi>Paul,</hi> 1 <hi>Cor.</hi> 15.51. uſeth the Phraſe for our Paſſage into the other World, <hi>We ſhall all be changed.</hi> Ac<g ref="char:EOLhyphen"/>cordingly <hi>Codurcus</hi> here tranſlateth it, <hi>obitus my death ſhall come;</hi> And ſo (abate very few who think it may refer to the Reſtitution of his former Proſperity) the generality both of <hi>Jewiſh</hi> Interpreters, and our own have ex<g ref="char:EOLhyphen"/>pounded it, <hi>viz. of his death,</hi> and that which ſhall ſucceed it, <hi>his reſurrection.</hi>
+            </p>
+            <p>
+               <pb n="9" facs="tcp:93638:8"/>
+This he here calleth <hi>his change,</hi> in a peculiar manner, <hi>my change,</hi> as if all his other <hi>changes</hi> were nothing to it. This is a <hi>change,</hi> a mighty <hi>change</hi> indeed: wicked men <hi>change</hi> for the worſe; righteous men <hi>change</hi> for the better; both righteous and wicked undergo a <hi>change,</hi> a wonderful <hi>change,</hi> and that in four Particulars.</p>
+            <p>Firſt, it changeth our Enjoyments, for things of a quite different kind and ſpecies. All theſe viſible things which here we prize, and are ſo fond of, diſappear and have no place by it,
+<q>Jam linquenda domus &amp; tellus, <hi>&amp;c.</hi>
+               </q>
+            </p>
+            <p>There <hi>Nabal</hi> hath no Sheep to ſhear, nor <hi>Ahab</hi> Vineyard to take poſſeſſion of: There <hi>Sampſon</hi> hath no <hi>Dalilah</hi> to lie in the lap of, nor <hi>Belſhazar</hi> bowles to carowſe and revel in: There <hi>Agrippa</hi> and <hi>Berenice</hi> have no Train to attend them; nor is the rich man cloathed with his Purple and fine <hi>Linnen.</hi> The Spirit that is not purged and elevated above the faſcina<g ref="char:EOLhyphen"/>ting
+<pb n="10" facs="tcp:93638:9"/>Charmes of theſe, that can taſt and reliſh nothing higher, how diſcontented muſt it wan<g ref="char:EOLhyphen"/>der, ſeeking reſt and finding none, when it com<g ref="char:EOLhyphen"/>eth into theſe Regions. <hi>Eſau</hi> might as well have taken Ship, to have hunted for Veniſon upon the Waves of the Ocean; or <hi>Peter</hi> have caſt his Net to catch Fiſh, in the Wilderneſs or upon the Mountains; as to expect any groſs or ſenſual things in the life that is here<g ref="char:EOLhyphen"/>after. There all is ſpiritual and of another nature; That is a firſt <hi>change</hi> that Death mak<g ref="char:EOLhyphen"/>eth, a <hi>change</hi> of our Enjoyments.</p>
+            <p>Secondly, A <hi>change</hi> it is, in reſpect of our Ca<g ref="char:EOLhyphen"/>pacity; it <hi>changeth</hi> that alſo. Here the wick<g ref="char:EOLhyphen"/>ed is capable of Mercy, and the unconverted ſollicited to Repentance: Here the Golden Scepter is held out, and the Door of Hope ſet open: But men had need take heed of wanton trifling: For though now God treat with us, then he will only judge us. Death is the long<g ref="char:EOLhyphen"/>eſt date of the Goſpel Proclamation, and after that our ſtate is irreverſable. Now God ſtand<g ref="char:EOLhyphen"/>eth
+<pb n="11" facs="tcp:93638:9"/>at our doors and knocketh; but if we open not, then, though we ſtand at his door and knock, he will anſwer I know you not: <hi>Herodotus</hi> telleth us, that when the <hi>Jonians,</hi> who before had refuſed a Peace with <hi>Cyrus,</hi> af<g ref="char:EOLhyphen"/>terwards in their extremity made addreſſes to him, he told them this Parable: That a Mu<g ref="char:EOLhyphen"/>ſician playing a long time to the Fiſh that were in the River, ſeeing they came not at him, flung in a Net and caught them: to whom, as they lay panting upon the Bank, he crieth out, you ſhould have daunced before, it is too late now. Let this be thought on while you are in better Circumſtances; that although now God de<g ref="char:EOLhyphen"/>lighteth not in the death of a ſinner, yet then he will laugh at his calamity: Although now he beſeecheth to be reconciled, yet then he will be inexorable: For that is another <hi>change</hi> that Death maketh, a <hi>change</hi> of our capacity.</p>
+            <p>Thirdly, A <hi>change</hi> it is, in reſpect of our condition, it <hi>changeth</hi> that alſo. Here it is, like our ſelves, compounded; and partaketh
+<pb n="12" facs="tcp:93638:10"/>both of good and evil. No ſtate here ſo ſweet but hath ſomething to embitter it; nor is there any ſo embittered, but there is ſome<g ref="char:EOLhyphen"/>thing to ſweeten it. The Roſe hath prickles, and the Nettle beareth a Flower on it. But when once the ſoul hath trod over the threſhold of this Body, and is out of doors; what ever be our portion there, there will be no mixture in it. In Heaven there is pure Joy without any Sorrow: In Hell pure Sorrow without any Joy. They that are in Heaven will have nothing to diſturb them; They that are in Hell will have nothing to divert them. It is of infinite importance what becometh of us when we go from hence, for there is no deprecating one of <hi>Agur</hi>'s Extreams: The weight of glory, it is an exceeding weight, and the burthen of wrath, it is a burthen too heavy for us to bear. Here the righteous taſt of the Joyes of the Holy Ghoſt, but it is only as <hi>Jonathan</hi> did Hony in the Wilderneſs, a little thereof at the end of a Rod: Here the wicked may be chaſtiſed by Gods Anger, but it is only as the Ten Tribes
+<pb n="13" facs="tcp:93638:10"/>were by <hi>Jeroboam,</hi> with Rods and not with Scorpions: but in the other life, both mercy and fury will be in their <hi>Zenith,</hi> and have no reſtraint, but only the capacity of the Objects they are let out upon.</p>
+            <p>Laſtly, A <hi>change</hi> it is, in reſpect of our con<g ref="char:EOLhyphen"/>tinuation. <hi>We are here but for a time, an appoint<g ref="char:EOLhyphen"/>ed time:</hi> But whereſoever we go after Death it is for Eternity. Whether we are placed among the Sheep or the Goats; Whether we are to be crowned or burned, it is to be for ever; The Joy is an everlaſting Joy, and the Puniſhment is everlaſting Puniſhment: The Kingdom is an everlaſting Kingdom, and the Fire is ever<g ref="char:EOLhyphen"/>laſting Fire: The Life is everlaſting Life, and the Deſtruction is an everlaſting Deſtruction. The Ancients did uſe to repreſent this ſome<g ref="char:EOLhyphen"/>times by the Hieroglyphick of a round Ring that hath no end in it: Sometimes of a bound<g ref="char:EOLhyphen"/>leſs Ocean that hath no Shores to it: Some<g ref="char:EOLhyphen"/>times of a <hi>Hydra</hi>'s Head that groweth as faſt as it is cut: Sometimes of a running Fountain
+<pb n="14" facs="tcp:93638:11"/>that ſpringeth as faſt as it floweth; but all theſe come ſtrangely ſhort of it. Arithmetick hath her Figures to caſt up the Sums of Num<g ref="char:EOLhyphen"/>bers, Aſtronomy her Inſtruments to take the heighth of Stars, Mariners their. Plumets to ſound the depth of the Seas; But what Inven<g ref="char:EOLhyphen"/>tion can reach the heighth and depth and length and breadth of an unlimited Eternity? We may here take up the Words of <hi>Zophar</hi> in ano<g ref="char:EOLhyphen"/>ther caſe; <hi>It is as high as Heaven, what canſt thou do? Deeper than Hell, what canſt thou know? The meaſure thereof is longer than the Earth, and broader than the Sea. O Eternity! Eternity! the Line of our Fancy is too ſhort to reach thee! We can imagine nothing to which we can reſemble thee! A thouſand, thouſand, thouſand Years are in thy ſight but as Yeſterday when it is paſt, and as a Watch in the Night!</hi> And into this Eternity do every one of us launch out, as ſoon as we ſhoot the Gulph of Death. Now it being ſuch a <hi>change,</hi> ſo long a one, ſo important a one, ſo irremediable a one, ſo ſtrong a one, which we all muſt
+<pb n="15" facs="tcp:93638:11"/>undergo, had we not need to provide and prepare for it; and this is the</p>
+            <p>Laſt Particular, our Duty and Employ<g ref="char:EOLhyphen"/>ment in order to it, to fit and make our ſelves ready for it; <hi>All our days to wait till it come: All the days of my appointed time will I wait:</hi> and here you have three Things couched in the Expreſſion.</p>
+            <p>Firſt, Here is his pious Meditation of it, ſo the <hi>Vulgar</hi> readeth it, <hi>expectabo,</hi> he doth not put it far from him, but doth expect and look for it. <hi>Machiavel</hi> in his Prince relateth of <hi>Caeſar Borgia,</hi> whoſe Deſign was to make him<g ref="char:EOLhyphen"/>ſelf Lord of <hi>Italy,</hi> that he told them who were about him in his laſt ſickneſs, how he had con<g ref="char:EOLhyphen"/>trived all his Affairs in order to it: He had ſubjugated <hi>Romania,</hi> wonne over the Chief of both Factions the <hi>
+                  <g ref="char:V">Ʋ</g>rſin</hi> and the <hi>Colonois</hi> to be his Creatures, he had cut off <hi>Meſſier Romiro</hi>'s Head, made Alliance with the Spaniard, and in ſhort foreſeen and prevented all the Incon<g ref="char:EOLhyphen"/>veniencies
+<pb n="16" facs="tcp:93638:12"/>that could lie in his way, but only Death; which he ſaid he never dreamed or imagined would have come ſo ſoon on him. Sure there is no overſight among men more common than this, to ſuppoſe Death farther off from them than indeed it is. If our for<g ref="char:EOLhyphen"/>getting Death would make Death forget us, we might pretend ſome Policy for it; but ſeeing it is a <hi>change,</hi> a <hi>change</hi> where the time is as uncertain, as the thing is unavoydable, what greater Folly! You that would avoid the Horrors of it when it cometh, familiarize to your thoughts before it cometh; ſo doth Holy <hi>Job</hi> here, and that is a firſt thing implyed in his waiting, his awful Meditation of it.</p>
+            <p>Secondly, It ſpeaketh his comfortable Ap<g ref="char:EOLhyphen"/>prehenſions of it. Waiting it is a chearful Word, and argueth ſatisfaction in, and want of the thing we wait for. <hi>Aquila Theod. &amp; Sym.</hi> read it <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>I will hope.</hi> Death like the Pla<g ref="char:EOLhyphen"/>net <hi>Mercury,</hi> it hath its Influence according as it is in Conjunction: Although upon evil
+<pb n="17" facs="tcp:93638:12"/>men it hath a Malignant one, it being a Trap door whereby they fall into irrecoverable Mi<g ref="char:EOLhyphen"/>ſery; yet upon them that are good, it hath a benigne one; it is a Golden Gate, through which they enter into Glory. Like St. <hi>James</hi>'s unimaginable Fountain, it ſendeth forth both ſweet Waters and bitter; Although to the impenitent it ſendeth forth bitter Waters, Tribulation and Anguiſh and Wrath: Yet to the pious it ſendeth forth ſweet ones, Glory and Honour and Immortality. And ſuitable to theſe two different Effects, the Children of men are differently affected with it; For although the ungodly are aſtoniſhed at it, as at the approach of their Executioner; when <hi>Saul</hi> heareth he muſt die on the Mor<g ref="char:EOLhyphen"/>row, as ſtout and valiant as he was, the Story telleth us, <hi>he fell all along on the Earth and was ſore afraid;</hi> Yet the Godly they welcome it, as their Friend and Benefactor: St. <hi>Paul</hi> hath a deſire to depart, and Holy <hi>Job</hi> ſpeaketh of it as that which he longed for, <hi>I will wait.</hi>
+            </p>
+            <p>
+               <pb n="18" facs="tcp:93638:13"/>
+Once more, it ſpeaketh his careful Prepa<g ref="char:EOLhyphen"/>ration in order to it. <hi>I will wait,</hi> is as much as I will get me ready for it: And is there not need when it is above the reach of Words how much dependeth upon it? What Tra<g ref="char:EOLhyphen"/>gick Shreiks, what fearful Cries have ſome a<g ref="char:EOLhyphen"/>wakened Conſciences ſent out when they have found themſelves ſurprized by it? O that I might live, ſaid a Great Man of this Kingdom (when his Phyſitian had given him over) O that I might live, if it were but in a loathſome Dungeon! O that I might live, if it were but the Life of a Toad, that I might have a ſpace for my Repentance! <hi>Inducias domine uſque ad mane,</hi> ſaid the Young Man in St. <hi>Gregory,</hi> Lord ſpare me! but a little, little while, but while to Morrow Morning; but while I ſay my Prayers once more! and ſo expired in Horrors. Death will not <hi>wait</hi> for us, though we are unprepared; how doth it behove us then to <hi>wait</hi> for it, and prepare for it? To <hi>wait</hi> for it with a conſidering Proſpect? To <hi>wait</hi> for it with a circumſpect Care? To <hi>wait</hi>
+               <pb n="19" facs="tcp:93638:13"/>for it with Oyle in our Lamps? To <hi>wait</hi> for it with our Garments girt about us.</p>
+            <p>And this not to be put off to one of theſe Days, not to be deferred while the latter end of our Days, not to be neglected while the evil Days come, but <hi>all our days.</hi> Our whole Life ſhould have an habitual ſerious reſpect to it; doing every thing that may make it com<g ref="char:EOLhyphen"/>fortable, keeping aloof from every thing that may make it formidable. Let us accoſt every Action as thoſe Marriners that were going to Execution did the Emperour, <hi>morituri te ſa<g ref="char:EOLhyphen"/>lutant.</hi> You may die while you are thinking, die while you are viſiting, die while you are talking, die while you are trading, die while you are ſinning. Do therefore every Action as if it were your laſt, and live every day as thoſe that know not whether you ſhall live another.</p>
+            <p>This is the way to make <hi>your change,</hi> when<g ref="char:EOLhyphen"/>ſoever it ſhall come, to be a happy one; and whereas the looſe and profane, the carnal and the debauch, <hi>change</hi> their Mirth and Jollity for
+<pb n="20" facs="tcp:93638:14"/>anguiſh and gnaſhing of Teeth; Their Con<g ref="char:EOLhyphen"/>fidence and ſtupidity for Tremblings and confuſed Diſtractions; Their Acquain<g ref="char:EOLhyphen"/>tance and Companions for Devils and miſ<g ref="char:EOLhyphen"/>chievous Spirits; their Gawdes and Orna<g ref="char:EOLhyphen"/>ments for flames and chains of Darkneſs: Your <hi>change</hi> ſhall be for the better: You ſhall <hi>change</hi> Frailty for Immortality, and In<g ref="char:EOLhyphen"/>firmity for Perfection: You ſhall <hi>change</hi> this troublſome World for the <hi>Jeruſalem</hi> that is above, and the Society of corrupter Crea<g ref="char:EOLhyphen"/>tures, for the Church of the Firſt-born which is in Heaven, and the Spirits of juſt men made perfect. Nay, even our Bodies that now at preſent <hi>change</hi> for the worſe, from Beauty to Deformity, from Strength to Rottenneſs: Even theſe vile Bodies after a while ſhall be <hi>changed</hi> alſo, <hi>changed</hi> into the Likeneſs of Chriſts glorious Body, to be ſhining as the Stars, hail as the Cherubin, and reunited to our Souls for ever, both together to enjoy the Preſence of God and Pleaſures for ever<g ref="char:EOLhyphen"/>more. <hi>Which God of his Mercy grant us.</hi>
+            </p>
+            <p>
+               <pb n="21" facs="tcp:93638:14"/>
+I have done with the Text: But know there is another Subject you expect to hear ſomething of: This Eminent Inſtrument, this uſeful Ornament of the Church, Our Reverend and Dear Brother, whoſe Fune<g ref="char:EOLhyphen"/>rals we are now celebrating: And here I am in a Straight between two, having much Ob<g ref="char:EOLhyphen"/>jection both againſt ſpeaking and being ſilent; To ſay nothing of him were to be injurious to his Worth by concealing it, and for me to ſay any thing will be the ſame, by under<g ref="char:EOLhyphen"/>reaching it. When this Office is to be done for Dean <hi>Hardy;</hi> It is not fit that any but the Tongue of a Dean <hi>Hardy</hi> ſhould have the doing it. I am in <hi>Phleton</hi>'s caſe, who when he was to perform the Rites of Burial to the Body of the Great <hi>Ageſilaus</hi> had no Hony; And with him muſt be forced to make uſe of Wax inſtead of it; Giving you a dry and naked Narrative for want of a ſweet<g ref="char:EOLhyphen"/>er and more proper <hi>Panegyrick.</hi>
+            </p>
+            <p>
+               <pb n="22" facs="tcp:93638:15"/>
+HIs Birth as appeareth by that Sermon of his Preached to his Fellow Natives, and that other upon the burning of it, was in <hi>London;</hi> where his pious and careful Parents gave him all the Advantages of Education. A quick Apprehenſion and ſtrong Memory helped him to his Learning with ſo much ſpeed and eaſe, that he commenced Maſter of Arts in the Univerſity of <hi>Oxford,</hi> younger than many are admitted. So well furniſhed he then was with all thoſe Abilities which might render him ſerviceable in the Church, that time was diſpenſed with, and he admit<g ref="char:EOLhyphen"/>ted into Holy Orders, ſeveral Years be<g ref="char:EOLhyphen"/>fore the Canon Standard: And ſooner than the Laws would have put the diſpencing an Eſtate into his Hands; Such a one was He, that it was thought fit to put the diſpencing the Myſteries of God there.</p>
+            <p>That extraordinary which <hi>Tully</hi> mentioneth of <hi>Hortenſius,</hi> that he pleaded in the <hi>Forum</hi> with great Applauſe, when he was but Nineteen
+<pb n="23" facs="tcp:93638:15"/>Years Old; in him was more than paralleld, who when very little over, was a Preacher of Eſteem, in, and about our <hi>Metropolis.</hi>
+            </p>
+            <p>Such was his Pregnancy: But inſtead of admiring this, I cannot but (rather) condole it as his Infelicity: For ſo it proved. The Subtle Faction that had great Occaſion for ſuch Parts as his were, in the Game they were then in playing, by their wonted Arts of Inſi<g ref="char:EOLhyphen"/>nuation ſet themſelves to compaſs him: And the Bird was then ſo young, that with their Chaff they caught him. But it were both Unchriſtian and diſingenuous for any to re<g ref="char:EOLhyphen"/>proach his Memory with this, when every one knoweth he made ſuch early and ſincere a<g ref="char:EOLhyphen"/>mends for it: Nor can I ſuppoſe that any will upbraid it that he was ſo once, but only thoſe that are angry he was not ſo always. He was none of thoſe, the opening of whoſe Eyes is juſt of the ſame Age with his Maje<g ref="char:EOLhyphen"/>ſties Glorious Reſtauration; No, when Re<g ref="char:EOLhyphen"/>bellion was Rampant, and Schiſme Trium<g ref="char:EOLhyphen"/>phant; when Loyalty was condemned for
+<pb n="24" facs="tcp:93638:16"/>Treaſon, and all Order in the Church bawl<g ref="char:EOLhyphen"/>ed down for Antichriſtian; Then, then he left the Tents of thoſe too proſperous men, and returned to his Duty, when there was nothing but Conſcience to encourage him.</p>
+            <p>Being at <hi>
+                  <g ref="char:V">Ʋ</g>xbridge</hi> when the Treaty was there, he had the Happineſs to be brought into the Company of that Hammer of all In<g ref="char:EOLhyphen"/>novation both Eccleſiaſtical and Civil, the never to be mentioned without Veneration, Doctor <hi>Hammond;</hi> and to his Solid Argu<g ref="char:EOLhyphen"/>ments, and Awful Advices, I have heard our deceaſed Brother ſay, he owed his firſt awake<g ref="char:EOLhyphen"/>nings and reducing.</p>
+            <p>He ſhewed that he was converted himſelf, after a while; by improving all Opportuni<g ref="char:EOLhyphen"/>ties for the ſtrengthning of his Brethren: Not only in Private but in Publick, with Courage and Faithfulneſs, reproving the U<g ref="char:EOLhyphen"/>ſurpation, Oppreſſion, Perjury, Sacriledge, Hypocriſie, and the reſt of the raigning Sins of thoſe Times of Violence and Madneſs. I need not inſiſt upon theſe Things, they were
+<pb n="25" facs="tcp:93638:16"/>not done in a Corner, but in the Heart of <hi>Englands</hi> chiefeſt City: And when the gene<g ref="char:EOLhyphen"/>rality of the Pulpits there, powred out little but Noyſe or angry Nonſenſe, War or En<g ref="char:EOLhyphen"/>thuſiaſtick Humour, His was a well of Water, where many an honeſt <hi>Jacob</hi> drank, himſelf, and his Children and his Servants, and were refreſhed; Some being undeceived, and many confirmed by him.</p>
+            <p>But that Magnanimous Zeale which he ſhewed againſt the Murther of our Late So<g ref="char:EOLhyphen"/>veraign of Glorious Memory, ought not to be Buried in Oblivion: He not only gave warning againſt it, openly, and earneſtly, while that daring Wickedneſs was but an <hi>Embryo:</hi> But every Year after on that Sunday which fell neareſt the Black Day it was committed on; He failed not in his Prayers to deprecate, and in his Sermon compoſed for the Occaſion to demonſtrate, and bewayle the Guilt of it.</p>
+            <p>Thus he continued while the Happy 1660. When he reaped the temporal Rewards of
+<pb n="26" facs="tcp:93638:17"/>his conſcientious Loyalty. In all which he acted Worthily: He had a Publick Spirit, and hath left the Prints of it upon his ſeveral Preferments: <hi>Invenit Lateritia, reliquit Mar<g ref="char:EOLhyphen"/>morea:</hi> They are all the better for him.</p>
+            <p>In this Place he found a Houſe, ſcarce one in theſe Parts ſo Ruinous, which, all, by his means, much, at his Charge, is reedifyed, and ſo improved, that now there is ſcarce one ſo fair and goodly.</p>
+            <p>At his Deanery, he found the Cathedral with the Stamps of the Reformation upon it, waſt and much ſpoyle; This by the induſtri<g ref="char:EOLhyphen"/>ous Employment of his Great Intereſt in the Gentry of that County, added to ſeven thou<g ref="char:EOLhyphen"/>ſand pound, which he and the Chapter diſ<g ref="char:EOLhyphen"/>burſed freely, he repaired, and adorned in ſome good meaſure.</p>
+            <p>At <hi>Leyborn,</hi> a Living he was but a little while poſſeſſed of, He findeth the ſame occaſi<g ref="char:EOLhyphen"/>on for his Munificence and Benefacture, a rui<g ref="char:EOLhyphen"/>nous Houſe again: And that found him the ſame; He hath well repaired it although it was
+<pb n="27" facs="tcp:93638:17"/>a Place where his Circumſtances (if God had given him longer Life) would not have allow<g ref="char:EOLhyphen"/>ed him to have made any ſtay, yet his Suc<g ref="char:EOLhyphen"/>ceſſors Good was a ſufficient Motive to him.</p>
+            <p>As he made his Preferments better, ſo his Preferments did not make him worſe; He continued the ſame, the ſame humble, affable, obliging Perſon, he was, in his leaſt Condi<g ref="char:EOLhyphen"/>tion. Yea, to the confutation of the clamo<g ref="char:EOLhyphen"/>rous Rabble, he was the ſame conſtant dili<g ref="char:EOLhyphen"/>gent Preacher. Inſomuch that I think I may adventure to ſay, there was not a Lords Day where ever he was, whereon (if Sickneſs hin<g ref="char:EOLhyphen"/>dered him not) he was not at leaſt once in the Pulpit.</p>
+            <p>God grant them as much Grace, as they have cauſe, to repent, who have any way ma<g ref="char:EOLhyphen"/>liciouſly aſperſed him. For although I am not ſo partial as to believe him without his <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, (let the that eſcape all themſelves, caſt Stones at him) Yet as to groſſer Miſ<g ref="char:EOLhyphen"/>carriages I am highly perſwaded, that not Truth and Reality, but Rage and Deſign
+<pb n="28" facs="tcp:93638:18"/>were the <hi>movimenta Mechanica,</hi> that ſet their Tongues in going.</p>
+            <p>Not only Charity, but common Reaſon thinketh no evil, where it findeth Evidences of Good: And in him were very many. In his Behaviour in his Family, He was a <hi>Joſhua, He and his Houſe ſerving the Lord:</hi> Dayly, Morning and Evening, worſhipping, with the Solemn Devotions of the Liturgy. In his ſenſe of Mercies, He was an <hi>Hezekiah, writing upon the Wall,</hi> when he was recovered of his great Sickneſs, and every one of the Years after, that God added to his Life, He kept that Day on which it ſeiſed him religi<g ref="char:EOLhyphen"/>ouſly in Faſting and Prayer. In his Con<g ref="char:EOLhyphen"/>verſe and Friendſhip, he was a <hi>Nathaniel, one in whom there was no Guile;</hi> Cordial and faithful without Baſeneſs or low Diſſimulati<g ref="char:EOLhyphen"/>on. In his Preaching, the Court, the City, the Country, all from <hi>Dan</hi> unto <hi>Beerſheba,</hi> know, he was an <hi>Apollos, an Eloquent Man, and mighty in the Scriptures.</hi>
+            </p>
+            <p>Such was this Worthy Perſon, who on the
+<pb n="29" facs="tcp:93638:18"/>28<hi rend="sup">th.</hi> of <hi>May</hi> laſt paſt, was taken ſuddenly, and fatally. In a moment, <hi>quantum mutatus ab illo!</hi> How ſtrange a <hi>change</hi> was there! That Head, which was the tenacious Receptacle of ſo much uſeful Learning, is now the ſtupified Seat of a Diſeaſe: Thoſe Eyes, which had read through ſo many ſorts of Books, cannot now by any means be kept open: That Tongue, which dropped things ſweeter than the Honycomb, cannot now pronounce an ordinary Sentence: That Perſon, whom ſo many of all Degrees and Ranks of People ſo rejoyced to ſee, is now become a ſad and dole<g ref="char:EOLhyphen"/>ful Spectacle.</p>
+            <p>His Diſtemper being of ſuch a Nature, you cannot look for any thing from him in his Sickneſs: For though he had his Apprehenſi<g ref="char:EOLhyphen"/>on (which he diſcovered when any thing was ſaid to him, and in a very particular man<g ref="char:EOLhyphen"/>ner, when Prayers were put up for him) yet he had not Expreſſion: He could not ſo much as make a Will, or call his deareſt Friends by their Names.</p>
+            <p>
+               <pb n="30" facs="tcp:93638:19"/>
+Thus he lay notwithſtanding all the Care and Art of the great <hi>Aeſculapius</hi> of this Age, his Condition being more and more hopeleſs, while the Firſt of <hi>June</hi> at Night, when, to the Grief of his Friends, the Loſs of the Church, but (I hope) the great Gain and Joy of Him<g ref="char:EOLhyphen"/>ſelf, his great <hi>change came, and he fell aſleep.</hi>
+            </p>
+            <p>And now he is gone to his Long Home, how many Mourners go about the Streets. I need not here break out into <hi>David</hi>'s <hi>Apo<g ref="char:EOLhyphen"/>ſtrophes</hi> at the death of <hi>Saul,</hi> to beg Lamenta<g ref="char:EOLhyphen"/>tions or publiſh a Brief for Tears, perhaps no man of his Quality and Station have had more to weep over him: His diſconſolate Widow weepeth, that She hath loſt ſo Dear and Tender a Husband. You of St. <hi>Mar<g ref="char:EOLhyphen"/>tins</hi> weep, that you have loſt ſo Able and be<g ref="char:EOLhyphen"/>loved a Paſtor. The Poor and neceſſitous weep, that they have loſt ſo importunate and effe<g ref="char:EOLhyphen"/>ctual an Advocate. His crowding Auditors from all Parts weep, that they have loſt ſo practical and melting a Preacher. His Friends and Acquaintance weep, that they have
+<pb n="31" facs="tcp:93638:19"/>loſt— But I muſt forbear: This is but to open the Flood Gates to a ſoft and trou<g ref="char:EOLhyphen"/>bleſome Paſſion.</p>
+            <p>We muſt improve ſuch Providences as theſe to more manly and Chriſtian Purpoſes. You that loved him (and who that knew him did not?) You that loved him muſt ſhew greater and better Tokens of it. You that loved him, <hi>ſtand faſt in the Truth,</hi> which he de<g ref="char:EOLhyphen"/>livered to you; being dead he yet ſpeaketh, that ye henceforth be no more Children, <hi>toſſed to and fro, and carried about with every wind of Doctrine.</hi> You that loved him, mortifie all the Luſts which he ſo pathetically did fore<g ref="char:EOLhyphen"/>warn you of; Remember the Words that he ſpake unto you while he was yet with you. You that loved him, exerciſe all the Graces, perform all the Duties, which he ſo faithfully did exhort you to, knowing that you all a<g ref="char:EOLhyphen"/>mong whom he came, Preaching the King<g ref="char:EOLhyphen"/>dom of God, ſhall ſee his Face no more. Finally, you that loved him, prepare to fol<g ref="char:EOLhyphen"/>low him; Let the Meditation of his ſo ſudden
+<pb n="32" facs="tcp:93638:20"/>
+               <hi>change</hi> be one Motive to all the reſt which you have, <hi>All the Days of your appointed time <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> wait for your own.</hi> That ſo he, and we, are all the Children of God, who now at ſundry times and in divers manners are parted ſor<g ref="char:EOLhyphen"/>rowfully, may meet together again joyfully, to enjoy the God and Father of our Lord Jeſus Chriſt with one another, for ever and ever.</p>
+            <p>
+               <hi>
+                  <g ref="char:V">Ʋ</g>nto this King Eternal, Immortal, In<g ref="char:EOLhyphen"/>viſible, the Only wiſe God, be Honour and Glory for ever and ever,</hi> Amen.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
